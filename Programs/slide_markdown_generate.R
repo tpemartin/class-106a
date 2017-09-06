@@ -43,7 +43,7 @@ full.body<-paste0(
   body.txt
 )
 
-fileConn<-file('slide_markdown_out.Rmd')
+fileConn<-file('./Programs/slide_markdown_out.Rmd')
 writeLines(c(front_matter,
              knitr.txt,
              body.txt), fileConn)
