@@ -1,0 +1,34 @@
+---
+title: "經濟1A學生自介"
+author: "ML" 
+date: " September 6, 2017" 
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+## 林茂廷
+- 想參加：   
+NA
+- 社團興趣：  
+NA
+- 興趣：  
+影音製作, 電腦程式
+- 臉書追踪:  
+The Economist
+
+## 陳柏銘
+- 想參加：   
+啦啦隊
+- 社團興趣：  
+NA
+- 興趣：  
+運動, 閱讀
+- 臉書追踪:  
+無
+
