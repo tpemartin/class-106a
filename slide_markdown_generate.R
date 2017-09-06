@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)\n
 '
 
 library(googlesheets)
+library(dplyr)
 #gs_auth(new_user = TRUE) # 若有googlesheets讀取問題，請執行此行。
 gs_ls()
 member.gs <- gs_title("導生106A")
